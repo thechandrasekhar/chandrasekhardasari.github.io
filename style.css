@@ -462,7 +462,7 @@ footer p {
 }
 
 /* Responsive Styles */
-@media screen and (max-width: 420px){
+@media screen and (max-width: 520px){
   .navbar{
     padding: 10px;
     width: 100%;
